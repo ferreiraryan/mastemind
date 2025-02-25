@@ -19,7 +19,7 @@ This project was developed using the following technologies:
 
 ```sh
 # Clone this repository
-$ git clone https://github.com/ferreiraryan/MasterMind-with-Screen
+$ git clone https://github.com/ferreiraryan/mastemind
 
 # Enter the directory
 $ cd projectname
